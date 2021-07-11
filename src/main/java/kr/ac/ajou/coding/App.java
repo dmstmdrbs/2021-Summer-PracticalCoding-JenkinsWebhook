@@ -14,5 +14,9 @@ public class App
         System.out.println("Test Slack Notification~");
         System.out.println("TEST");
         System.out.println("using ngrok");
+
+        System.out.println("-------------------");
+        System.out.println("Checked by Hyungjun");
+        System.out.println("-------------------");
     }
 }
