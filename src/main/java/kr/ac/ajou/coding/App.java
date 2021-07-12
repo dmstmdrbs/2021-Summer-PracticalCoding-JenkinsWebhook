@@ -18,5 +18,9 @@ public class App
         System.out.println("-------------------");
         System.out.println("Checked by Hyungjun");
         System.out.println("-------------------");
+
+        System.out.println("-------------------");
+        System.out.println("Pull request by beomsoo");
+        System.out.println("-------------------");
     }
 }
